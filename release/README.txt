@@ -45,18 +45,18 @@ You can put files into the sync folders to let them automatically be uploaded to
 multi-cloud.
 
 
-Exit
-
-Close the window won't exit the application, UniDrive maintains a system tray to
-continuously monitor local sync folder, right click the tray and click exit to
-exit the application.
-
-
 Setup on Other Devices
 
 Once you have setup UniDrive in one device, it will be much more convenient to 
 deploy it to other devices. You only need to authenticate one cloud, and other clouds will automatically be authenticated. 
 After that files will be synchronized across your devices automatically.
+
+
+Exit
+
+Close the window won't exit the application, UniDrive maintains a system tray to
+continuously monitor local sync folder, right click the tray and click exit to
+exit the application.
 
 
 Trace Collection and Privacy Issue
