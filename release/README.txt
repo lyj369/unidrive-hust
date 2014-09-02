@@ -65,7 +65,7 @@ UniDrive collects user traces for academic research and software improvement.
 Including but not limited to metrics such as IP address, metadata size, file 
 size and data transfer speed. No data content or user credential are accessed. 
 You can remove all your UniDrive data in the multi-cloud as well as the local 
-cache by running uninstall.exe.
+cache by running Uninstall.exe.
 
 
 Any problem, please contact cstang02@gmail.com
