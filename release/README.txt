@@ -7,17 +7,16 @@ Requirements
 
 Overview
 
-UniDrive is a multi-cloud storage application which unifies multiple consumer 
-cloud storage services (CCS) to provide fast multi-device synchronization.
+UniDrive is a consumer multi-cloud application that synergizes multiple consumer 
+cloud storage services (CCSs) like Dropbox and OneDrive to provide more reliable 
+and secure file storage as well as faster multi-device synchronization services.
 
 UniDrive provides the same interface as a CCS application such as Dropbox, 
-automatically synchronize files in your local sync folder to the multi-cloud,
-and then to your other devices.
-
+automatically synchronizes files in your local sync folder to multiple CCSs, and then to your other devices.
 
 Setup and Authentication
 
-Double click UniDrive.exe to start the application. You need to specify the 
+Unpack and double click UniDrive.exe to start the application. You need to specify the 
 sync folder location and use your CCS accounts to authenticate at least
  3 clouds to make UniDrive work. 
 
@@ -61,11 +60,10 @@ exit the application.
 
 Trace Collection and Privacy Issue
 
-UniDrive collects user traces for academic research and software improvement. 
-Including but not limited to metrics such as IP address, metadata size, file 
-size and data transfer speed. No data content or user credential are accessed. 
-You can remove all your UniDrive data in the multi-cloud as well as the local 
-cache by running Uninstall.exe.
+UniDrive collects performance traces (not user files) for academic research and software improvement. 
+Including but not limited to metrics such as file size and data transfer speed. 
+No data content or user credential are accessed.  You can remove all your 
+UniDrive data in the multi-cloud as well as the local cache by running Uninstall.exe.
 
 
 Any problem, please contact cstang02@gmail.com
